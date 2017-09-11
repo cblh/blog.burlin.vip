@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-vno-burlin"]
+	path = themes/hexo-theme-vno-burlin
+	url = git@github.com:cblh/hexo-theme-vno-burlin.git
