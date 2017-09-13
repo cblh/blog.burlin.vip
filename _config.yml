@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description: 0day
+title: Burlin的网络日志
+subtitle: Burlin的个人网站
+description: Burlin的个人网站. Burlin Chen's Personal Website. » 网络日志（Blog） · Contact | burlin.vip
 author: Burlin Chen
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://burlin.vip
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -84,3 +84,6 @@ leancloud_visitors:
   enable: true
   app_id: yaW5Fdg736gX5She7C4vncis-gzGzoHsz
   app_key: 82WwPDft7Nx1R7BJAeEOjKWeP
+
+livereload:
+  port: 35729
